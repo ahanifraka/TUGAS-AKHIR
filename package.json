@@ -3,7 +3,6 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "postinstall": "npm install --legacy-peer-deps",
         "build": "vite build",
         "dev": "vite",
         "preview": "vite preview"
